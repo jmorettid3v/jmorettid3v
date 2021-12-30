@@ -16,10 +16,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%239D51F7&multiline=true&width=600&height=70&lines=The+next+level+is+not+the+end...;...but+the+beginning+of+a+new+Journey+!!!+%F0%9F%98%89">
 </div>   
 
-<div>
+<div><br>
   <a href="https://github.com/jmorettid3v">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmorettid3v&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorettid3v&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmorettid3v&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorettid3v&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inlineblock"><br>
@@ -62,3 +62,8 @@
   <a href="https://www.youtube.com/c/FabioAkita1990" target="_blank"><img align="center" alt="Fabio Akita" height="35" width="35" src="https://yt3.ggpht.com/ytc/AKedOLSt8q-3u78Uk5LjZtGN6liv-FIoSs6NuV7_XT1q-mQ=s88-c-k-c0x00ffffff-no-rj"></a>
   <a href="https://www.youtube.com/c/cs50" target="_blank"><img align="center" alt="CS50" height="35" width="35" src="https://yt3.ggpht.com/ytc/AKedOLTZloGQkLBOEhaQ7mR-DLvcslyP1bq4EIcIXPqNMA=s88-c-k-c0x00ffffff-no-rj"></a>
 </div>
+
+<div align="center"><br>
+  <a href="https://github.com/jmorettid3v">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23D34CF7&multiline=true&width=700&height=80&lines=Never+stop+coding+and+learning...;...because+with+this+we+are+solving+problems%2C+improving+;and+innovating+the+World+!!!">
+</div> 
