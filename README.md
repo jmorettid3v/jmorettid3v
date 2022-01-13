@@ -16,13 +16,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%239D51F7&multiline=true&width=600&height=70&lines=The+next+level+is+not+the+end...;...but+the+beginning+of+a+new+Journey+!!!+%F0%9F%98%89">
 </div>   
 
-<div><br>
+<div align="center">
   <a href="https://github.com/jmorettid3v">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmorettid3v&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorettid3v&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorettid3v&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inlineblock"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Moretti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Moretti-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Moretti-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -52,7 +52,7 @@
   <img align="center" alt="YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </div>
   
-<div style="display: inlineblock"><br>
+<div style="display: inline_block"><br>
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img align="center" alt="Rafaella" height="35" width="35" src="https://yt3.ggpht.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s88-c-k-c0x00ffffff-no-rj"></a>
   <a href="https://www.youtube.com/c/FilipeDeschamps" target="_blank"><img align="center" alt="Filipe" height="35" width="35" src="https://yt3.ggpht.com/ytc/AKedOLTnTjoDN70zAxQqnSOBfj9RxVQ5H0HMZXciBQHY=s88-c-k-c0x00ffffff-no-rj"></a>
   <a href="https://www.youtube.com/c/RocketSeat" target="_blank"><img align="center" alt="Rocketseat" height="35" width="35" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s88-c-k-c0x00ffffff-no-rj"></a>
